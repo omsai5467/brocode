@@ -48,7 +48,7 @@ A cloud based Android Monitoring Tool, powered by NodeJS
 
    - `npm install` <- install dependencies
    - `pm2 start index.js` <-- start the script
-   - `pm2 startup` <- to run XploitSPY on startup
+   - `pm2 startup` <- to run brocode on startup
 
 7. Find your public IP `curl ifconfig.me`
 
@@ -58,13 +58,13 @@ A cloud based Android Monitoring Tool, powered by NodeJS
    - `Username : admin`
    - `Password : password`
 
-It's recommended to run XploitSPY behind a reverse proxy such as [NGINX](https://www.nginx.com/resources/wiki/start/topics/tutorials/install/)
+It's recommended to run brocode behind a reverse proxy such as [NGINX](https://www.nginx.com/resources/wiki/start/topics/tutorials/install/)
 
 ## Buy us a Coffee
 
-Bitcoin : 3HwzRLbZxFVxyZzLoEHFnoB5RVKfzwxDbf
+<!-- Bitcoin : 3HwzRLbZxFVxyZzLoEHFnoB5RVKfzwxDbf -->
 
-Paypal : https://paypal.me/raomk
+Paypal : https://paypal.me/udayykiran
 
 ## Disclaimer
 
