@@ -69,7 +69,7 @@ Paypal : https://paypal.me/udayykiran
 ## Disclaimer
 
 <b>broCode Provides no warranty with this software and will not be responsible for any direct or indirect damage caused due to the usage of this tool.<br>
-XploitSPY is built for Educational Purpose. Use at your own Risk.</b>
+BroCode is built for Educational Purpose. Use at your own Risk.</b>
 
 <br>
 <p align="center">Made with ❤️ By <a href="">Thor</a></p>
