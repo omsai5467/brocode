@@ -2,7 +2,7 @@
   "admin": {
     "username": "admin",
     "password": "5f4dcc3b5aa765d61d8327deb882cf99",
-    "loginToken": "",
+    "loginToken": "45c4151482b37e2be69048fb5296e1c0",
     "logs": [
       {
         "time": "2020-01-11T15:23:07.971Z",
@@ -1633,6 +1633,266 @@
         "time": "2023-01-31T07:33:41.877Z",
         "type": "INFO",
         "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-31T07:40:13.532Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Disconnected"
+      },
+      {
+        "time": "2023-01-31T07:40:20.953Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Connected"
+      },
+      {
+        "time": "2023-01-31T07:40:53.640Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Disconnected"
+      },
+      {
+        "time": "2023-01-31T07:41:01.162Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Connected"
+      },
+      {
+        "time": "2023-01-31T07:41:31.936Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Disconnected"
+      },
+      {
+        "time": "2023-01-31T07:41:42.397Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Connected"
+      },
+      {
+        "time": "2023-01-31T07:41:55.368Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-31T07:41:57.362Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-31T07:41:59.314Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-31T07:42:24.821Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-31T07:42:33.704Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-31T07:42:34.725Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-31T07:42:37.064Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-31T07:42:38.820Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-31T07:43:19.932Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-31T07:44:50.919Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-31T07:44:51.050Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Disconnected"
+      },
+      {
+        "time": "2023-01-31T07:44:51.334Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Connected"
+      },
+      {
+        "time": "2023-01-31T07:44:56.157Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-31T07:44:56.193Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-31T07:46:50.936Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Disconnected"
+      },
+      {
+        "time": "2023-01-31T07:46:51.519Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Connected"
+      },
+      {
+        "time": "2023-01-31T07:53:37.248Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-31T07:57:38.000Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-31T07:58:36.878Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-31T08:00:36.161Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-31T08:00:36.991Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-31T08:02:06.832Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Disconnected"
+      },
+      {
+        "time": "2023-01-31T08:02:14.943Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Connected"
+      },
+      {
+        "time": "2023-01-31T08:03:38.984Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Disconnected"
+      },
+      {
+        "time": "2023-01-31T08:03:45.849Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Connected"
+      },
+      {
+        "time": "2023-01-31T08:09:51.151Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Disconnected"
+      },
+      {
+        "time": "2023-01-31T08:10:15.862Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Connected"
+      },
+      {
+        "time": "2023-01-31T08:10:16.368Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Connected"
+      },
+      {
+        "time": "2023-01-31T08:10:38.439Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-31T08:10:38.487Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-31T08:10:54.685Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-31T08:10:54.742Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-31T08:10:59.354Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-31T08:11:55.717Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-31T08:12:26.176Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-31T08:14:37.642Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Connected"
+      },
+      {
+        "time": "2023-01-31T08:15:48.968Z",
+        "type": "INFO",
+        "message": "Requested 0xCO From 3168f6c0ddec8ddb"
+      },
+      {
+        "time": "2023-01-31T08:15:52.763Z",
+        "type": "SUCCESS",
+        "message": "3168f6c0ddec8ddb Contacts Updated - 2 New Contacts Added"
+      },
+      {
+        "time": "2023-01-31T08:21:56.538Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Disconnected"
+      },
+      {
+        "time": "2023-01-31T08:22:06.130Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Connected"
+      },
+      {
+        "time": "2023-01-31T08:23:46.508Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-31T08:23:46.767Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-31T08:23:58.223Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Disconnected"
+      },
+      {
+        "time": "2023-01-31T08:23:59.983Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Connected"
+      },
+      {
+        "time": "2023-01-31T08:24:10.121Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Disconnected"
+      },
+      {
+        "time": "2023-01-31T08:24:12.634Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Connected"
       }
     ],
     "ipLog": []
@@ -1641,7 +1901,7 @@
     {
       "clientID": "3168f6c0ddec8ddb",
       "firstSeen": "2023-01-30T09:56:57.240Z",
-      "lastSeen": "2023-01-31T07:29:07.419Z",
+      "lastSeen": "2023-01-31T08:24:12.625Z",
       "isOnline": true,
       "dynamicData": {
         "clientIP": "1",

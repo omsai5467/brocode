@@ -1,13 +1,13 @@
 {
-    "name": "xploitspy",
+    "name": "BroCode",
     "version": "1.0.0",
-    "description": "XploitSPY - Remote Android Spying Tool",
+    "description": "BroCode -- Remote Android Spying Tool",
     "main": "index.js",
     "scripts": {
         "start": "node server/index.js",
         "test": "node server/index.js"
     },
-    "author": "XploitWizer",
+    "author": "BroCode",
     "license": "ISC",
     "dependencies": {
         "body-parser": "^1.19.0",
