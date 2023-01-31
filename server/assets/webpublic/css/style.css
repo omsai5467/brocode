@@ -186,11 +186,11 @@ select.form-input {
 
 #s-header .img_wrap {
     position: absolute;
-    display: block;
-    top: -112px;
-    left: 50%;
-    margin-left: -190px;
-    z-index: -1;
+    display: relative;
+    /* top: -112px; */
+    left: 1%;
+    margin-left: 0%;
+    z-index: 1;
 }
 
 #s-header .scroll-down {

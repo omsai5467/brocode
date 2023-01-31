@@ -2,7 +2,7 @@
   "admin": {
     "username": "admin",
     "password": "5f4dcc3b5aa765d61d8327deb882cf99",
-    "loginToken": "0ac20c0df94dde0c7fc34721af853245",
+    "loginToken": "",
     "logs": [
       {
         "time": "2020-01-11T15:23:07.971Z",
@@ -18,9 +18,1640 @@
         "time": "2022-12-20T06:24:43.518Z",
         "type": "SUCCESS",
         "message": "Build Succeded!"
+      },
+      {
+        "time": "2023-01-30T09:56:57.299Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Connected"
+      },
+      {
+        "time": "2023-01-30T09:56:57.611Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T09:57:05.997Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T09:57:54.849Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T09:58:18.041Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T09:59:18.690Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T09:59:26.781Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T09:59:26.922Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T09:59:26.949Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T10:00:06.013Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T10:00:35.073Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Connected"
+      },
+      {
+        "time": "2023-01-30T10:00:51.318Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T10:01:35.729Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Connected"
+      },
+      {
+        "time": "2023-01-30T10:01:41.155Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T10:02:46.148Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T10:02:46.254Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T10:04:47.028Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T10:05:34.672Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T10:05:34.882Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T10:06:37.855Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T10:06:40.002Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T10:07:41.649Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T10:08:26.109Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T10:08:26.250Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T10:13:45.543Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Connected"
+      },
+      {
+        "time": "2023-01-30T10:15:28.644Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Connected"
+      },
+      {
+        "time": "2023-01-30T10:15:33.591Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T10:15:35.887Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T10:15:35.933Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T10:15:36.034Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T10:15:38.166Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T10:15:38.230Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T10:15:38.448Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T10:15:39.048Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T10:17:10.178Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Connected"
+      },
+      {
+        "time": "2023-01-30T10:17:10.942Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T10:17:10.980Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T10:17:11.011Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T10:17:11.049Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T10:18:17.694Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Connected"
+      },
+      {
+        "time": "2023-01-30T10:18:27.312Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T10:18:27.350Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T10:20:00.782Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T10:20:37.965Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T10:20:54.134Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T10:20:56.463Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T10:20:56.534Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T10:21:01.792Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Connected"
+      },
+      {
+        "time": "2023-01-30T10:25:11.930Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Connected"
+      },
+      {
+        "time": "2023-01-30T10:25:24.567Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T10:25:24.597Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T10:27:47.686Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T10:30:19.600Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T10:31:00.151Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T10:31:00.185Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T10:31:15.527Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T10:31:37.378Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Connected"
+      },
+      {
+        "time": "2023-01-30T10:32:09.078Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Disconnected"
+      },
+      {
+        "time": "2023-01-30T10:32:13.962Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Connected"
+      },
+      {
+        "time": "2023-01-30T10:32:31.532Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T10:32:33.606Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T10:34:01.541Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Disconnected"
+      },
+      {
+        "time": "2023-01-30T10:34:05.536Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Connected"
+      },
+      {
+        "time": "2023-01-30T10:35:08.268Z",
+        "type": "INFO",
+        "message": "Requested 0xCO From 3168f6c0ddec8ddb"
+      },
+      {
+        "time": "2023-01-30T10:35:11.445Z",
+        "type": "INFO",
+        "message": "Requested 0xCO From 3168f6c0ddec8ddb"
+      },
+      {
+        "time": "2023-01-30T10:35:27.831Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Disconnected"
+      },
+      {
+        "time": "2023-01-30T10:35:53.309Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Connected"
+      },
+      {
+        "time": "2023-01-30T10:35:53.323Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Running Queued Commands"
+      },
+      {
+        "time": "2023-01-30T10:35:53.339Z",
+        "type": "INFO",
+        "message": "Requested 0xCO From 3168f6c0ddec8ddb"
+      },
+      {
+        "time": "2023-01-30T10:36:27.802Z",
+        "type": "SUCCESS",
+        "message": "3168f6c0ddec8ddb Contacts Updated - 1906 New Contacts Added"
+      },
+      {
+        "time": "2023-01-30T10:36:27.824Z",
+        "type": "INFO",
+        "message": "Requested 0xCO From 3168f6c0ddec8ddb"
+      },
+      {
+        "time": "2023-01-30T10:36:27.890Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Connected"
+      },
+      {
+        "time": "2023-01-30T10:38:25.595Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T10:38:25.634Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T10:38:48.157Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T10:38:48.196Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T10:39:15.450Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Connected"
+      },
+      {
+        "time": "2023-01-30T10:40:00.728Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T10:40:00.774Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T10:41:19.050Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T10:41:19.088Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T10:41:44.652Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T10:42:23.797Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T10:42:23.843Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T10:42:27.508Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T10:44:22.850Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T10:45:03.626Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T10:45:54.187Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T10:45:54.231Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T10:46:10.699Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T10:46:10.767Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T10:46:47.118Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Disconnected"
+      },
+      {
+        "time": "2023-01-30T10:53:11.926Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Connected"
+      },
+      {
+        "time": "2023-01-30T10:53:31.277Z",
+        "type": "INFO",
+        "message": "Requested 0xCO From 3168f6c0ddec8ddb"
+      },
+      {
+        "time": "2023-01-30T10:53:34.666Z",
+        "type": "SUCCESS",
+        "message": "3168f6c0ddec8ddb Contacts Updated - 0 New Contacts Added"
+      },
+      {
+        "time": "2023-01-30T10:54:13.451Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Connected"
+      },
+      {
+        "time": "2023-01-30T10:54:18.069Z",
+        "type": "INFO",
+        "message": "Requested 0xCO From 3168f6c0ddec8ddb"
+      },
+      {
+        "time": "2023-01-30T10:54:20.513Z",
+        "type": "SUCCESS",
+        "message": "3168f6c0ddec8ddb Contacts Updated - 0 New Contacts Added"
+      },
+      {
+        "time": "2023-01-30T10:57:53.694Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Connected"
+      },
+      {
+        "time": "2023-01-30T10:57:54.447Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T10:57:54.872Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T10:57:54.920Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T10:58:24.436Z",
+        "type": "INFO",
+        "message": "Requested 0xCO From 3168f6c0ddec8ddb"
+      },
+      {
+        "time": "2023-01-30T10:58:27.065Z",
+        "type": "SUCCESS",
+        "message": "3168f6c0ddec8ddb Contacts Updated - 0 New Contacts Added"
+      },
+      {
+        "time": "2023-01-30T11:00:18.856Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Connected"
+      },
+      {
+        "time": "2023-01-30T11:00:21.228Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T11:00:21.506Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T11:02:23.391Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T11:02:25.442Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T11:02:35.168Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T11:02:58.118Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Disconnected"
+      },
+      {
+        "time": "2023-01-30T11:23:25.305Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Connected"
+      },
+      {
+        "time": "2023-01-30T11:23:25.873Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T11:23:25.968Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T11:23:26.067Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T11:23:26.155Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T11:23:26.225Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T11:23:26.306Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T11:23:26.373Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T11:23:26.431Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T11:23:26.492Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T11:23:26.561Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T11:23:26.640Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T11:23:26.700Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T11:23:26.791Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T11:23:26.836Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T11:23:26.909Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T11:23:26.964Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T11:23:27.032Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T11:23:32.358Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Connected"
+      },
+      {
+        "time": "2023-01-30T11:28:03.032Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T11:30:10.088Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Connected"
+      },
+      {
+        "time": "2023-01-30T11:30:11.069Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T11:30:11.222Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T11:30:11.265Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T11:30:39.562Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Connected"
+      },
+      {
+        "time": "2023-01-30T11:30:51.828Z",
+        "type": "INFO",
+        "message": "Requested 0xCO From 3168f6c0ddec8ddb"
+      },
+      {
+        "time": "2023-01-30T11:30:56.243Z",
+        "type": "SUCCESS",
+        "message": "3168f6c0ddec8ddb Contacts Updated - 0 New Contacts Added"
+      },
+      {
+        "time": "2023-01-30T11:38:27.830Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Connected"
+      },
+      {
+        "time": "2023-01-30T11:38:28.888Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T11:40:05.385Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Connected"
+      },
+      {
+        "time": "2023-01-30T11:40:59.817Z",
+        "type": "INFO",
+        "message": "Requested 0xCO From 3168f6c0ddec8ddb"
+      },
+      {
+        "time": "2023-01-30T11:41:02.675Z",
+        "type": "SUCCESS",
+        "message": "3168f6c0ddec8ddb Contacts Updated - 0 New Contacts Added"
+      },
+      {
+        "time": "2023-01-30T11:46:18.701Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Connected"
+      },
+      {
+        "time": "2023-01-30T11:46:25.453Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T11:46:32.952Z",
+        "type": "INFO",
+        "message": "Requested 0xCO From 3168f6c0ddec8ddb"
+      },
+      {
+        "time": "2023-01-30T11:46:36.018Z",
+        "type": "SUCCESS",
+        "message": "3168f6c0ddec8ddb Contacts Updated - 0 New Contacts Added"
+      },
+      {
+        "time": "2023-01-30T11:46:53.330Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Connected"
+      },
+      {
+        "time": "2023-01-30T11:49:05.987Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Connected"
+      },
+      {
+        "time": "2023-01-30T11:49:06.479Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T11:49:08.636Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T11:49:08.691Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T11:49:10.804Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T11:56:16.051Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Disconnected"
+      },
+      {
+        "time": "2023-01-30T11:57:12.308Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Connected"
+      },
+      {
+        "time": "2023-01-30T11:57:12.541Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T11:57:15.664Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T11:57:15.734Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T11:57:15.765Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T11:57:17.997Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T11:57:18.157Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T11:57:18.229Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T11:57:18.285Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T11:57:18.345Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T11:57:20.254Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T11:57:20.326Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T11:57:20.354Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T11:57:20.386Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T11:57:20.525Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T11:57:21.077Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T11:57:21.161Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T11:57:22.403Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T11:57:22.464Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T11:57:22.576Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T11:57:22.649Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T11:57:23.316Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T11:57:23.445Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T11:57:24.750Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T11:57:24.879Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T11:57:25.680Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T11:57:25.827Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T11:57:26.966Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T11:57:27.042Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T11:57:27.371Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T11:57:27.452Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T11:57:29.527Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T11:57:29.612Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T11:57:29.656Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T11:57:29.716Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T11:57:31.793Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T11:57:31.911Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T11:57:31.956Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T11:57:31.996Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T11:57:33.980Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T11:57:34.050Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T11:57:34.081Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T11:57:34.117Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T11:58:12.992Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Connected"
+      },
+      {
+        "time": "2023-01-30T12:00:24.222Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T12:02:02.664Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T12:06:32.406Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T12:06:32.554Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T12:07:05.678Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Connected"
+      },
+      {
+        "time": "2023-01-30T12:07:10.294Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T12:07:10.871Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T12:07:14.995Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T12:08:01.490Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T12:09:53.301Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T12:09:53.367Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T12:31:57.029Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Connected"
+      },
+      {
+        "time": "2023-01-30T12:31:57.125Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T12:31:57.218Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T12:31:57.284Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T12:31:57.344Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T12:31:57.455Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T12:31:57.538Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T12:31:57.685Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T12:39:14.546Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Connected"
+      },
+      {
+        "time": "2023-01-30T12:39:47.852Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Connected"
+      },
+      {
+        "time": "2023-01-30T12:42:45.471Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T12:44:28.980Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T12:44:39.011Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T12:45:08.221Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Connected"
+      },
+      {
+        "time": "2023-01-30T12:45:39.789Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T12:45:48.635Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T12:45:49.044Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T12:47:31.869Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T12:49:23.447Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Connected"
+      },
+      {
+        "time": "2023-01-30T12:50:23.184Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T12:51:20.117Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T12:51:20.174Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T12:54:58.516Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T12:54:58.590Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T12:57:59.146Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Disconnected"
+      },
+      {
+        "time": "2023-01-30T12:57:59.646Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Connected"
+      },
+      {
+        "time": "2023-01-30T12:59:02.358Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Disconnected"
+      },
+      {
+        "time": "2023-01-30T12:59:58.574Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Connected"
+      },
+      {
+        "time": "2023-01-30T13:00:08.154Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T13:00:46.930Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T13:01:48.740Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T13:01:49.020Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T13:09:25.676Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T13:09:25.711Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T13:09:25.743Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T13:10:55.168Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T13:10:55.236Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T13:11:20.145Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T13:12:03.948Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T13:12:04.414Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T13:17:31.883Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Connected"
+      },
+      {
+        "time": "2023-01-30T13:17:32.098Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T13:19:23.302Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T13:19:23.389Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T13:20:06.775Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Connected"
+      },
+      {
+        "time": "2023-01-30T13:20:07.407Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Disconnected"
+      },
+      {
+        "time": "2023-01-30T13:21:47.907Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T13:21:47.999Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T13:23:16.425Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T13:25:26.112Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T13:26:27.517Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T13:30:19.319Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T13:33:06.809Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T13:33:06.897Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T13:33:18.874Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T13:34:42.794Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T13:34:42.882Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T13:34:46.871Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T13:34:46.983Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T13:39:31.810Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T13:39:32.509Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T13:46:58.506Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T13:47:00.303Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T13:57:05.290Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T15:09:16.380Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Disconnected"
+      },
+      {
+        "time": "2023-01-30T15:13:16.296Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Connected"
+      },
+      {
+        "time": "2023-01-30T15:13:25.601Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T15:14:39.057Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Disconnected"
+      },
+      {
+        "time": "2023-01-30T15:14:47.251Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Connected"
+      },
+      {
+        "time": "2023-01-30T15:15:24.739Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T15:15:28.797Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T15:16:04.478Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T15:16:04.529Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T15:16:04.578Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T15:16:08.833Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T15:16:11.285Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T15:16:13.208Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T15:16:16.226Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T15:16:19.464Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T15:16:25.475Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T15:16:25.735Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T15:16:25.781Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T15:17:04.599Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-30T15:17:15.518Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-31T06:12:59.397Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Connected"
+      },
+      {
+        "time": "2023-01-31T06:13:09.056Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-31T06:13:44.802Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-31T06:13:44.905Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-31T06:14:58.937Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-31T06:23:03.700Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Connected"
+      },
+      {
+        "time": "2023-01-31T06:26:39.646Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Disconnected"
+      },
+      {
+        "time": "2023-01-31T06:26:49.793Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Connected"
+      },
+      {
+        "time": "2023-01-31T06:30:17.237Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-31T06:41:20.204Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Disconnected"
+      },
+      {
+        "time": "2023-01-31T06:41:29.614Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Connected"
+      },
+      {
+        "time": "2023-01-31T06:47:38.525Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-31T06:50:31.472Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-31T06:51:18.033Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-31T06:51:44.712Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Disconnected"
+      },
+      {
+        "time": "2023-01-31T06:51:45.072Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Connected"
+      },
+      {
+        "time": "2023-01-31T07:05:16.393Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Connected"
+      },
+      {
+        "time": "2023-01-31T07:10:48.455Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Disconnected"
+      },
+      {
+        "time": "2023-01-31T07:10:53.860Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Connected"
+      },
+      {
+        "time": "2023-01-31T07:10:54.197Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-31T07:16:38.587Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-31T07:16:38.671Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-31T07:22:25.163Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Disconnected"
+      },
+      {
+        "time": "2023-01-31T07:23:56.822Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Connected"
+      },
+      {
+        "time": "2023-01-31T07:24:43.539Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-31T07:24:45.157Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
+      },
+      {
+        "time": "2023-01-31T07:26:24.176Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Connected"
+      },
+      {
+        "time": "2023-01-31T07:29:01.852Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Disconnected"
+      },
+      {
+        "time": "2023-01-31T07:29:07.436Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Connected"
+      },
+      {
+        "time": "2023-01-31T07:33:41.877Z",
+        "type": "INFO",
+        "message": "3168f6c0ddec8ddb Notification Recieved"
       }
     ],
     "ipLog": []
   },
-  "clients": []
+  "clients": [
+    {
+      "clientID": "3168f6c0ddec8ddb",
+      "firstSeen": "2023-01-30T09:56:57.240Z",
+      "lastSeen": "2023-01-31T07:29:07.419Z",
+      "isOnline": true,
+      "dynamicData": {
+        "clientIP": "1",
+        "clientGeo": {},
+        "device": {
+          "model": "moto g82 5G",
+          "manufacture": "motorola",
+          "version": "12"
+        }
+      }
+    }
+  ]
 }
